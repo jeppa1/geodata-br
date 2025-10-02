@@ -1,4 +1,12 @@
-﻿
+﻿﻿
+Geodata Rio Grande do Norte - Delegados 6ª COEDIPI (Conferência Estadual dos Direitos da Pessoa Idosa)
+===================
+
+![Prévia do Mapa](Mapa_RN_-_Delegados_2025.png)
+
+===================
+Este projeto contém arquivos [Geojson](http://geojson.org/) com os perímetros
+dos municípios brasileiros dividido por estado
 Geodata BR - Brasil
 ===================
 
@@ -72,3 +80,4 @@ Projetos relacionados
 Palavras-chave / Keywords
 -------------------------
 BR, Brasil, Brazil, mapa, map, mapas, maps, Geojson, geo, json, GIS
+
