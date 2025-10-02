@@ -4,6 +4,7 @@ Geodata Rio Grande do Norte - Delegados 6ª COEDIPI (Conferência Estadual dos D
 ![Prévia do Mapa](mapa_delegados.png)
 
 ===================
+
 Este projeto contém arquivos [Geojson](http://geojson.org/) com os perímetros
 dos municípios brasileiros dividido por estado
 Geodata BR - Brasil
@@ -79,5 +80,6 @@ Projetos relacionados
 Palavras-chave / Keywords
 -------------------------
 BR, Brasil, Brazil, mapa, map, mapas, maps, Geojson, geo, json, GIS
+
 
 
